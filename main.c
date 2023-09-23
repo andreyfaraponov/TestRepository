@@ -6,7 +6,7 @@
 
 int main(void)
 {
-    printf("%d\n", 1234);
+    printf("%d\n", 9999);
 
     return 0;
 }
